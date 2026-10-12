@@ -1,0 +1,141 @@
+{
+ "at": "2026-10-10T08:00:00Z",
+ "items": [
+  {
+   "date": "2026-09-25",
+   "tag": "Compagnies",
+   "title": "Korean Air finalise une commande de 103 Boeing",
+   "summary": "Gros-porteurs et monocouloirs pour renouveler la flotte.",
+   "source": "AeroWeb-fr",
+   "url": "https://www.aeroweb-fr.net/actualites/2026/09/korean-air-finalise-une-commande-historique-de-103-boeing-gros-porteurs-et-monocouloirs"
+  },
+  {
+   "date": "2026-09-28",
+   "tag": "Compagnies",
+   "title": "Turkish Airlines finalise une commande de 150 Boeing 737 MAX",
+   "summary": "Une commande historique pour la compagnie turque.",
+   "source": "AeroWeb-fr",
+   "url": "https://www.aeroweb-fr.net/actualites/2026/09/turkish-airlines-finalise-une-commande-historique-portant-sur-150-boeing-737-max"
+  },
+  {
+   "date": "2026-09-29",
+   "tag": "Constructeurs",
+   "title": "Premier vol de l'Airbus A350F à Toulouse",
+   "summary": "Le nouveau cargo d'Airbus a réalisé son vol inaugural.",
+   "source": "AeroWeb-fr",
+   "url": "https://www.aeroweb-fr.net/actualites/2026/09/lairbus-a350f-effectue-avec-succes-son-premier-vol-inaugural-a-toulouse-photos"
+  },
+  {
+   "date": "2026-10-03",
+   "tag": "Compagnies",
+   "title": "AnimaWings en redressement judiciaire, vols suspendus jusqu'au 24 octobre",
+   "summary": "La compagnie roumaine suspend ses opérations.",
+   "source": "AeroWeb-fr",
+   "url": "https://www.aeroweb-fr.net/actualites/2026/10/animawings-se-place-en-redressement-judiciaire-et-suspend-ses-vols-jusquau-24-octobre-2026"
+  },
+  {
+   "date": "2026-10-03",
+   "tag": "Compagnies",
+   "title": "KLM prend livraison de son premier A350-900",
+   "summary": "Le premier A350 de la compagnie néerlandaise rejoint la flotte.",
+   "source": "AeroWeb-fr",
+   "url": "https://www.aeroweb-fr.net/actualites/2026/10/klm-royal-dutch-airlines-prend-livraison-de-son-premier-airbus-a350-900"
+  },
+  {
+   "date": "2026-10-05",
+   "tag": "Constructeurs",
+   "title": "737-10 : la FAA estime que le défaut logiciel n'empêche pas la certification",
+   "summary": "Une étape vers la mise en service du plus grand des 737 MAX.",
+   "source": "Le Journal de l'Aviation",
+   "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/la-faa-estime-que-le-defaut-logiciel-nempeche-pas-la-certification-du-boeing-737-10-20261005.html"
+  },
+  {
+   "date": "2026-10-05",
+   "tag": "Sécurité",
+   "title": "La flotte d'Elixir clouée au sol",
+   "summary": "Après l'accident mortel de Rochefort, les avions légers Elixir sont immobilisés.",
+   "source": "Le Journal de l'Aviation",
+   "url": "https://www.journal-aviation.com/actualites-industrie-aeronautique/la-flotte-delixir-clouee-au-sol-20261005.html"
+  },
+  {
+   "date": "2026-10-06",
+   "tag": "Leasing & finance",
+   "title": "AerCap a réalisé 204 transactions d'actifs au troisième trimestre",
+   "summary": "Le numéro un mondial du leasing, basé à Dublin, publie son activité trimestrielle.",
+   "source": "Le Journal de l'Aviation",
+   "url": "https://www.journal-aviation.com/leasing-et-financement/aercap-a-realise-204-transactions-dactifs-au-troisieme-trimestre-20261006.html"
+  },
+  {
+   "date": "2026-10-06",
+   "tag": "Compagnies",
+   "title": "airBaltic annonce une réduction d'environ 20 % de ses effectifs",
+   "summary": "La compagnie lettone, grand exploitant d'A220, réduit ses équipes.",
+   "source": "Le Journal de l'Aviation",
+   "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/airbaltic-annonce-une-reduction-denviron-20-de-ses-effectifs-20261006.html"
+  },
+  {
+   "date": "2026-10-06",
+   "tag": "Compagnies",
+   "title": "British Airways dévoile ses nouvelles cabines sur A380",
+   "summary": "Rénovation des cabines de ses superjumbos.",
+   "source": "Le Journal de l'Aviation",
+   "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/british-airways-devoile-ses-nouvelles-cabines-sur-a380-20261006.html"
+  },
+  {
+   "date": "2026-10-06",
+   "tag": "Leasing & finance",
+   "title": "GDHF décroche plus de 125 M€ de financement pour des H175 et H160",
+   "summary": "Un financement pour acquérir des hélicoptères Airbus.",
+   "source": "Le Journal de l'Aviation",
+   "url": "https://www.journal-aviation.com/leasing-et-financement/gdhf-decroche-un-financement-de-plus-de-125-millions-deuros-pour-acquerir-des-h175-et-des-h160-20261006.html"
+  },
+  {
+   "date": "2026-10-07",
+   "tag": "Défense & espace",
+   "title": "L'Allemagne s'oriente vers l'achat de 16 nouveaux A400M",
+   "summary": "Une commande supplémentaire de l'avion de transport militaire d'Airbus.",
+   "source": "Le Journal de l'Aviation",
+   "url": "https://www.journal-aviation.com/actualites-defense-espace/forces-armees/lallemagne-soriente-vers-lacquisition-de-16-nouveaux-airbus-a400m-20261007.html"
+  },
+  {
+   "date": "2026-10-07",
+   "tag": "Aéroports",
+   "title": "ACI Europe présente sa nouvelle stratégie de développement durable",
+   "summary": "Les aéroports européens fixent leur feuille de route environnementale.",
+   "source": "Le Journal de l'Aviation",
+   "url": "https://www.journal-aviation.com/actualites-transport-aerien/aeroports/aci-europe-presente-sa-nouvelle-strategie-de-developpement-durable-pour-les-aeroports-20261007.html"
+  },
+  {
+   "date": "2026-10-07",
+   "tag": "Compagnies",
+   "title": "Thai Airways signe un bail de 50 ans pour son centre de maintenance d'U-Tapao",
+   "summary": "Un futur centre MRO pour la compagnie thaïlandaise.",
+   "source": "Le Journal de l'Aviation",
+   "url": "https://www.journal-aviation.com/actualites-mro-support/thai-airways-signe-un-bail-de-50-ans-pour-son-futur-centre-mro-du-tapao-20261007.html"
+  },
+  {
+   "date": "2026-10-08",
+   "tag": "Compagnies",
+   "title": "Biman Bangladesh commande quatre A350 et six A321neo",
+   "summary": "La compagnie bangladaise commande des Airbus, après une commande Boeing fin septembre.",
+   "source": "Le Journal de l'Aviation",
+   "url": "https://www.journal-aviation.com/actualites-transport-aerien/compagnies-aeriennes/biman-bangladesh-commande-quatre-airbus-a350-et-six-a321neo-20261008.html"
+  },
+  {
+   "date": "2026-10-08",
+   "tag": "Défense & espace",
+   "title": "Le Danemark envisage 4 ou 5 A400M, avec le Groenland en ligne de mire",
+   "summary": "Pour remplacer ses C-130J en fin de vie. L'A400M a prouvé en 2026 qu'il pouvait se poser sur la banquise au Groenland, un atout pour les missions arctiques.",
+   "source": "Zone Militaire (opex360)",
+   "url": "https://www.opex360.com/2026/10/08/le-danemark-pourrait-commander-quatre-ou-cinq-avions-de-transport-a400m-atlas/"
+  },
+  {
+   "date": "2026-10-09",
+   "tag": "Leasing & finance",
+   "title": "Avolon commande 250 avions à Airbus et Boeing",
+   "summary": "Le loueur basé à Dublin commande 35 A330-900, 75 A320neo et 140 737 MAX, avec 100 options chez Airbus. Les actionnaires de Bohai Leasing doivent encore valider fin octobre.",
+   "source": "AviTrader",
+   "url": "https://avitrader.com/2026/10/09/aircraft-lessor-avolon-orders-250-airbus-and-boeing-aircraft/"
+  }
+ ]
+}
